@@ -1,0 +1,84 @@
+
+.uzbekiston .container{
+    text-align: center;
+    margin-left: 470px;
+}
+
+.container{
+    border: 1px solid rgb(196, 190, 190);
+    width: 800px;
+    height: 400px;
+}
+
+.container {
+    text-align: center;
+}
+
+.flag__one{
+    background-color: rgb(95, 183, 247);
+    height: 133px;
+}
+
+.flagSpan{
+    text-align: left;
+    margin-left: -470px;
+    display: inline-block;
+}
+
+.flag_a{
+    width: inline;
+    float: right;
+    margin-top: 3px;
+    letter-spacing: 5px;
+}
+
+.flag_b{
+    margin: 12px;
+}
+
+.flag_b:nth-child(1){
+    text-align: right;
+}
+
+.flag_b:nth-child(2){
+    text-align: right;
+}
+
+
+.fa-star{
+    color: #fff;
+}
+
+.fa-moon{
+    font-size: 120px;
+    color: #fff;
+}
+
+
+.flag__two{
+    background-color: rgb(255, 255, 255);
+    height: 133px;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    border-left: 1px solid silver;
+    border-right: 1px solid silver;
+    font-family: sans-serif;
+}
+
+.flag__three{
+    background-color: rgb(53, 132, 4);
+    height: 133px;
+}
+
+.uzb{
+    color: coral;
+}
+
+.fa-heart{
+    color: red;
+}
+.data{
+    background-color: black;
+    color: #fff;
+    font-family: sans-serif;
+}
